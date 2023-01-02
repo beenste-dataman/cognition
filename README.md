@@ -13,6 +13,7 @@
 
 Many applications! Open a directory and process all csv files. Choose a column and run an os command on every value in that column. Can change command and column between files. 
 
+![Image 1-1-23 at 7 53 PM](https://user-images.githubusercontent.com/50429213/210194017-b3614276-3abf-493b-ba83-0ca16f1feec6.jpeg)
 
 
 Always use '| tee file.txt' to save output. There is no output that works at this scale, sorry. Grep by filename to get it after. 
