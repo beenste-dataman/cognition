@@ -1,5 +1,12 @@
-# cognition
-A computing wormhole. My own personal framework for raw data analysis as a modular wormhole. 
+![Image 1-1-23 at 7 51 PM](https://user-images.githubusercontent.com/50429213/210193932-b680d414-78c7-4918-b8cb-5a61a4a9677a.jpeg)
+
+
+
+
+
+
+
+# A computing wormhole. My own personal framework for raw data analysis as a modular wormhole. 
 
 ---
 
