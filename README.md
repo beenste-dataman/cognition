@@ -53,6 +53,6 @@ With target being the value from the column in that iteration.
 - Run a script using this. 
 - Build scripts to feed values from this. 
 - Query API's 
-- 
+- Run this on an ftp in a cron job as needed. Add files to FTP destination as needed, for example a csv of the day's IP's deemed malicious by behavior. Run commands using those IPs.
 ----
 
