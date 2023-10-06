@@ -93,7 +93,7 @@ print('-' * 55)
 print('-' * 55)
 print('Enter a directory. It will gather all files ending with csv. One by one you can choose a column.\n Then you choose a command to run on each value in that column.\n And so on... until the directory is out of csv files.\n You can change the command and column on each file. \n Use | tee to capture your output. For now. \n Bye.')
 print('-' * 55)
-...
+
 
 print('-' * 55)
 # get the directory path from the user
